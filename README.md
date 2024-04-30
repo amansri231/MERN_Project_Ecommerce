@@ -9,6 +9,6 @@ functioning of the website in all dimensions. MERN stands for Mongo DB, Express.
 ⚠ Quick highlights :
 
 ❇ Utilization of MERN Full Stack to impart good performance by implementing frontend, backend, and database!
-✴ User Registration, Login, Logout, and Forgot Password functionalities have been implemented!
+✴ User Registration, Login, Logout, and Forgot Password functionalities have been implemented! 
 ❇ Customers can put their Reviews, Ratings, and Comments after purchasing the products from the platform!
 ✅ Whatever the number of products, the customer wants to purchase they can make an addition for the same to the products cart! 
